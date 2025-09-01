@@ -29,13 +29,13 @@ This project requires a key from WeatherAPI.com.
     ```bash
     git clone [https://github.com/arjuntanil/Weather-Tracker.git](https://github.com/arjuntanil/Weather-Tracker.git)
     ```
-# Create the virtual environment
+### Create the virtual environment
 python -m venv venv
 
-# Activate on Windows
+### Activate on Windows
 .\venv\Scripts\activate
 
-# Activate on macOS/Linux
+### Activate on macOS/Linux
 source venv/bin/activate
 
 **Install the required dependencies:**
@@ -43,10 +43,10 @@ source venv/bin/activate
     pip install -r requirements.txt
     ```
 
-# in weather_utils.py
+### in weather_utils.py
 API_KEY = "f87ff710ccb64ce6bce160704250109"
 
-# This terminal will run the main script that fetches data, applies bonuses, and sends updates back to the server.
+### This terminal will run the main script that fetches data, applies bonuses, and sends updates back to the server.
 
 
 ```bash
@@ -54,7 +54,7 @@ python main.py
 ```
 
 
-# Output 
+### Output 
 
 Enter city names (type 'done' to finish):
 City: Thrissur
