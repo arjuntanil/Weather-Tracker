@@ -63,14 +63,15 @@ City: Tokyo
 City: fakecity
 City: done
 
-Weather Report:
+#### Weather Report:
 Error for city 'fakecity': No matching location found.
+
 Thrissur: Temp = 27.0°C, Condition = Mist, Humidity = 94%, Wind = 3.6 km/h, Last Updated = 2025-09-01 21:45
-----------------------------------------------------------------------------------------------------------
+
 London: Temp = 18.0°C, Condition = Overcast, Humidity = 82%, Wind = 20.5 km/h, Last Updated = 2025-09-01 17:15
------------------------------------------------------------------------------------------------------------------
+
 Tokyo: Temp = 26.0°C, Condition = Sunny, Humidity = 65%, Wind = 15.1 km/h, Last Updated = 2025-09-02 05:45
------------------------------------------------------------------------------------------------------------
+
 
 
 
