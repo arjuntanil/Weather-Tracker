@@ -27,7 +27,7 @@ This project requires a key from WeatherAPI.com.
 
 **Clone the repository:**
     ```bash
-    git clone [https://github.com/arjuntanil/Employee-Salary-Manager.git](https://github.com/arjuntanil/Employee-Salary-Manager.git)
+    git clone [https://github.com/arjuntanil/Weather-Tracker.git](https://github.com/arjuntanil/Weather-Tracker.git)
     ```
 # Create the virtual environment
 python -m venv venv
